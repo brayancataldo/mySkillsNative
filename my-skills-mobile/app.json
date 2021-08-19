@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-skills-mobile",
+    "slug": "my-skills-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-skills-mobile"
+}
